@@ -1,0 +1,46 @@
+
+[
+    {
+        "id":1,
+        "name": "Manzana",
+        "stock": 200,
+        "price": 1300,
+        "img":"./imgs/manzana1.png"
+    },
+    {
+        "id":2,
+        "name": "Pera",
+        "stock": 180,
+        "price": 1200,
+        "img":"./imgs/pera1.png"
+    },
+    {
+        "id":3,
+        "name": "Naranja",
+        "stock": 130,
+        "price": 1000,
+        "img":"./imgs/naranja1.png"
+    },
+    {
+        "id":4,
+        "name": "Palta",
+        "stock": 80,
+        "price": 5500,
+        "img":"../imgs/palta1.png"
+    },
+    {
+        "id":5,
+        "name": "Tomate",
+        "stock": 70,
+        "price": 1800,
+        "img":"../imgs/tomate1.png"
+    },
+    {
+        "id":6,
+        "name": "Pomelo",
+        "stock": 2,
+        "price": 2200,
+        "img":"../imgs/pomelo1.png"
+    }
+]
+
